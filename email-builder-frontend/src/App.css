@@ -1,0 +1,23 @@
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input,
+textarea {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  max-width: 400px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+div {
+  margin-top: 20px;
+}
